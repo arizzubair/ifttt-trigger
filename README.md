@@ -1,3 +1,6 @@
+#Make python version of it with a non restrictive license and more features. Make it api-able to be consumed in other apps too.
+Try having a python module of it too.
+
 # ifttt-trigger
 
 Trigger ifttt recipes easily from command line
